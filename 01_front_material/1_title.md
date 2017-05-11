@@ -3,17 +3,17 @@
     
         \vspace*{1cm}
         
-
-       \large{ \textbf{ \uppercase{A computer musical tool\\(that sometimes actually works!)}}}
+       \large{ \textbf{ \uppercase{Hospitality Materials Control\\}}}
         
         \vspace{0.5cm}
         
         \vspace{1.5cm}
+
  
         Submitted in part fulfilment for the degree of
         \\
         \large{\textsc{
-        High Diploma in Science in Computing
+        Higher Diploma in Science in Computing
         }}\\
         Institute of Technology Blanchardstown
         \\
@@ -32,7 +32,7 @@
         
         \vfill
   
-            2017
+            May 2017
 
      \end{center}
     \thispagestyle{empty}

@@ -10,8 +10,18 @@
  
 % Headers and page numbering 
 \usepackage{fancyhdr}
-\pagestyle{plain}
- 
+
+\fancyhead{}
+\fancyhead[R]{\leftmark}
+\renewcommand{\headrulewidth}{0.4pt}
+
+\fancyfoot[R]{\thepage}
+\fancyfoot[C]{}
+\fancyfoot[L]{\textit{Hospitality Materials Control \copyright Florica Coste - May 2017}}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\pagestyle{fancy}
+
 % Fonts and typesetting
 \setsansfont{Verdana}
 
@@ -30,7 +40,7 @@
 
 % Chapter styling
 \usepackage[grey]{quotchap}
-\makeatletter 
+\makeatletter
 \renewcommand*{\chapnumfont}{%
   \usefont{T1}{\@defaultcnfont}{b}{n}\fontsize{80}{100}\selectfont% Default: 100/130
   \color{chaptergrey}%

@@ -1,7 +1,4 @@
 pandoc-thesis-template
-======================
-
-pandoc-thesis-template
 
 A template for creating a degree project thesis in markdown + pandoc
 
@@ -49,5 +46,5 @@ Only items that are cited will be added to the list of refernces in the generate
 
 To cite a reference item write the 'id' of the reference item in square brackets with an '@-at' sign as follows:
 
-Lots of people have written about how wonderful Pandoc is, for example see [@flo2017].
-where in the above flo2017 is the unique 'id' of the reference item. This would output something like this (if citations mode is Harvard):
+Lots of people have written about how wonderful Pandoc is, for example see [@smith2017].
+where in the above smith2017 is the unique 'id' of the reference item. This would output something like this (if citations mode is Harvard):
